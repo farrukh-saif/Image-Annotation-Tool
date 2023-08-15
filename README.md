@@ -1,16 +1,15 @@
-# dap_annotation_website_new
+# Image Annotation Tool
 
-A new Flutter project.
+A Flutter-based web application designed to facilitate image annotation. Ideal for data collection in computer vision and machine learning experiments.
 
-## Getting Started
+## Features
+- Easy-to-use interface for annotating images
+- Adaptable skeleton suitable for various annotation needs
+- Suitable for both experts and newcomers in the field of computer vision
 
-This project is a starting point for a Flutter application.
+## Installation
+Clone the repository and navigate to the root directory. Then run:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
